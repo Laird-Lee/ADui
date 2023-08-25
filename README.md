@@ -6,4 +6,10 @@
 
 `ADui`的意思就是`阿怼`，就读拼音就好
 
-<img src="./img/logo.png" alt="logo" style="zoom:25%;" />
+<img src="./img/logo.png" alt="logo" align="right" width="200" />
+
+### Github Star
+<img src="https://github-readme-stats.vercel.app/api?username=Laird-Lee&show_icons=true&icon_color=3080ec&text_color=3080ec&bg_color=ffffff&hide_title=true" />
+
+### Visit Counter
+<img src="https://profile-counter.glitch.me/Laird-Lee/count.svg" />
