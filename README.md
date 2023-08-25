@@ -6,6 +6,6 @@
 
 `ADui`的意思就是`阿怼`，就读拼音就好
 
-<img src="./img/logo.png" alt="logo" align="right" width="200" />
+<img src="./logo.png" alt="logo" align="right" width="200" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Laird-Lee&show_icons=true&icon_color=67d3d5&text_color=67d3d5&bg_color=ffffff&title_color=67d3d5" />
